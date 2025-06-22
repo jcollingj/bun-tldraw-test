@@ -1,6 +1,6 @@
 # Tldraw + Bun Error Reproduction
 
-This project is a reproduction of intermittent errors encountered when trying to use **Tldraw** with **Bun** to serve React components.
+This project is a reproduction of errors encountered when trying to use **Tldraw** with **Bun** to serve React components.
 
 ## Setup Steps
 
@@ -10,6 +10,7 @@ This reproduction was created using the following steps:
    ```bash
    bun init
    ```
+
 
 2. **Select React with shadcn/ui + Tailwind CSS** during the initialization process
 
